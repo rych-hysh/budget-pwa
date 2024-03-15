@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-				<h1> This is PWA test </h1>
+				<h1> まゆぺこ　ぺこぺこ </h1>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
