@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/budget-pwa/static/css/main.f855e6bc.css",
+    "main.js": "/budget-pwa/static/js/main.789c5f37.js",
+    "static/js/453.d47655b7.chunk.js": "/budget-pwa/static/js/453.d47655b7.chunk.js",
+    "service-worker.js": "/budget-pwa/service-worker.js",
+    "static/media/logo.svg": "/budget-pwa/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/budget-pwa/index.html",
+    "main.f855e6bc.css.map": "/budget-pwa/static/css/main.f855e6bc.css.map",
+    "main.789c5f37.js.map": "/budget-pwa/static/js/main.789c5f37.js.map",
+    "453.d47655b7.chunk.js.map": "/budget-pwa/static/js/453.d47655b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.789c5f37.js"
+  ]
+}
